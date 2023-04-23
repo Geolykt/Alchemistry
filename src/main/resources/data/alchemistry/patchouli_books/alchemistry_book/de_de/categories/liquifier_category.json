@@ -1,0 +1,6 @@
+{
+  "name": "Verflüssiger",
+  "description": "Ein Auszug von dem Alchemiekatalog:$(br)Natürlicherweise will man gerne das H₂O in trinkbarer Form bekommen. Der Verflüssiger ist hier die Aushilfe. Wenn man doch den Prozess wieder umkehren will gibt es ja den Flüssigkeitsspalter.",
+  "icon": "alchemistry:liquifier",
+  "sortnum": 6
+}
